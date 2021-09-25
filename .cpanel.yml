@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/stevfswc/public_html
+    - export DEPLOYPATH=/home/filemapp/filepdfs.work/httpdocs_
     - /bin/cp -a * $DEPLOYPATH
